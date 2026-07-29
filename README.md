@@ -1,7 +1,3 @@
-# About me
+# Professional Summary
 
-- 🧑‍🎓 I graduated with an MBA from Longwood University
-- 🧠 I’m currently learning SQL
-- 🧑‍💻 I’m looking to collaborate on Data Analytics projects
-- 🗣 I have a background in Biology (undergrad at VCU)
-- ✍ Certified Notary Public for Commonwealth of Virginia
+MBA graduate with a concentration in Data Analytics. Brings experience spanning biomedical research, healthcare support, and education, with a strong foundation in data analysis, research methodology, and effective communication. Skilled at organizing and interpreting information, developing actionable insights, and presenting complex findings to diverse audiences.
